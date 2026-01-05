@@ -1,4 +1,4 @@
-# Chroma-Modular-WF
+# Chroma-Modular-WF (discontinued)
 
 Chroma is a new 8.9B parameter model, still being developed, based on Flux.1 Schnell.
 It’s fully Apache 2.0 licensed, ensuring that anyone can use, modify, and build on top of it.
